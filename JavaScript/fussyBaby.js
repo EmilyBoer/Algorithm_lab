@@ -30,18 +30,3 @@ console.log(ticket());
 
 
 
-var parkRides = [["birch bumpers", 40], ["pines plunge", 45], ['cedar coaster', 20], ['ferris wheel of firs', 90]]
-
-var fastPassQueque = ["cedar coaster", "pines plunge", "cedar coaster" ]
-
-var yourChoice = "cedar coaster"
-
-
-function ticketbuilder(allrides, fastpass, pick){
-  if (pick == fastpass[0]){
-    var pass = fastpass.shift();
-    return function() {
-      alert("quick, you have a fast pass to" + pass);
-    }
-  }
-};
