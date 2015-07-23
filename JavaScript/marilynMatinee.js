@@ -1,5 +1,10 @@
 // A different Marilyn Monroe movie plays at noon every day. Plug in your Marilyn Monroe movie of choice to see if it's playing today.
 
+// learning competencies
+// function expressions
+// array methods
+// calling functions
+
 function movie (allMovies, yourPick){
 if (allMovies[0] == yourPick){
   var todaysMarilyn = allMovies.shift();
