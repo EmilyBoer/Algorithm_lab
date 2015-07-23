@@ -1,3 +1,14 @@
+// Create two arrays, one nested. One holds all rides and thei wait times the other holds a queue for fastpasses. If your ride of choice is the next in the fastpass array, the function with alert you with a message to catch that ride, else, it will tell you your choice ride's wait time.
+
+
+// //learning competencies
+// function expressions
+// conditional statements
+// array methods
+// calling functions
+// annonymous functions
+
+
 var parkRides = [["birch bumpers", 40], ["pines plunge", 45], ['cedar coaster', 20], ['ferris wheel of firs', 90]]
 
 var fastPassQueque = ["cedar coaster", "pines plunge", "cedar coaster" ]
