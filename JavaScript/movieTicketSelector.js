@@ -5,6 +5,6 @@
 -define a variable for the current time
 
 
-var movieTimes = [["Amy", 445], ["End of the Tour", 700], ["Magic Mike XXL"] ["Tanjarine", 1200]]
+var movieTimes = [["Amy", 445], ["End of the Tour", 730], ["Magic Mike XXL"] ["Tanjarine", 1200]]
 
 

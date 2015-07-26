@@ -17,8 +17,6 @@ return function(){
 }
 }
 
-
-
 var marilynMovies = ["Some Like it Hot", "The Seven Year Itch", "Gentlemen Prefer Blondes", "The Misfits", "Bus Stop", "Niagra", "All About Eve" ]
 
 var yourChoice = "Some Like it Hot";
