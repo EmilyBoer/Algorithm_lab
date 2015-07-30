@@ -1,0 +1,11 @@
+
+
+function FirstFactorial(num) {
+  while (num >= 0) {
+   num =  num * (num - 1);
+   num --;
+  }
+  // code goes here
+  return num;
+
+}
