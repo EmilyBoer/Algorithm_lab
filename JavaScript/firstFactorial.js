@@ -12,3 +12,4 @@ function firstFactorial(num) {
   // code goes here
   return num;
 }
+
