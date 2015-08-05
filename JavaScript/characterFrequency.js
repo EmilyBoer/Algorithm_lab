@@ -8,6 +8,7 @@
 
 // make sure you're taking a string
 
+
 var characterFrequency = function(str){
   var letters = {}
   if (typeof str === "str"){
