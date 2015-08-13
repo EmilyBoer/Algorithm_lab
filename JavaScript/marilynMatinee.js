@@ -4,6 +4,7 @@
 // function expressions
 // array methods
 // calling functions
+//breaking a larger problem down into smaller steps
 
 function movie (allMovies, yourPick){
 if (allMovies[0] == yourPick){
