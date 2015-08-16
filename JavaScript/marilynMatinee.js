@@ -12,6 +12,7 @@ if (allMovies[0] == yourPick){
   return function(){
     alert("todaysMarilyn is today's matinee!");
   };
+
 } else {
 return function(){
   alert("Sorry, "+ allMovies[0] + "is playing today. Try again tomorrow." );
