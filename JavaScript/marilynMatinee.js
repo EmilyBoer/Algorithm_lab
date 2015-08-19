@@ -15,7 +15,7 @@ if (allMovies[0] == yourPick){
 
 } else {
 return function(){
-  alert("Sorry, "+ allMovies[0] + "is playing today. Try again tomorrow." );
+  alert("Sorry, "+ allMovies[4] + "is playing today. Try again tomorrow." );
 }
 }
 
