@@ -13,6 +13,7 @@ var characterFrequency = function(str){
   var letters = {}
   if (typeof str === "str"){
 
+
     for (var i= 0; str.length > i; i++ ){
       if (letters [str[i]]){
         letters [str[i]] +=1;
